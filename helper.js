@@ -6,6 +6,8 @@
  * var mod = require('helper');
  * mod.thing == 'a thing'; // true
  */
+ 
+ // TEST
 var hashMethods = {
     hashValues: function (hash) {
         var array_values = new Array();
